@@ -1,7 +1,7 @@
 Package: atlas
 Type: Package
 Title: Stanford 'ATLAS' Search Engine API
-Version: 0.6.0
+Version: 1.0.0
 Author: Vladimir Polony
 Maintainer: Vladimir Polony <podalv@gmail.com>
 Description: Stanford 'ATLAS' (Advanced Temporal Search Engine) is a powerful tool that allows constructing
@@ -16,6 +16,6 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1.9000
 NeedsCompilation: no
-Packaged: 2018-05-31 18:05:58 UTC; podalv
+Packaged: 2018-08-10 16:53:15 UTC; podalv
 Repository: CRAN
-Date/Publication: 2018-06-01 15:35:39 UTC
+Date/Publication: 2018-08-10 17:20:11 UTC
